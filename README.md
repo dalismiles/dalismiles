@@ -1,6 +1,7 @@
 ### Hi there, I'm Dali! 👋
 
-💻 I am a **Frontend Developer**
+💻 I am a **Frontend Developer** working with:
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,sass,git)](https://skillicons.dev)
 
