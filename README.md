@@ -9,9 +9,7 @@
 🤩 **About me** : <br>
 🌱 I am an environmental activist and I like joining coastal cleanups. <br>
 🍵 I love herbal infusions and gin & tonics. <br>
-
-👎 **3 Things I don't do** : <br>
-🎥 I don't watch movie trailers. <br>
+🎥 I never watch movie trailers. <br>
 ⏰ I don't get out of bed on my first alarm. <br>
 
 ---
