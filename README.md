@@ -7,6 +7,7 @@
  
 ---
 🤩 **About me** : <br>
+
 🌱 I am an environmental activist and I like joining coastal cleanups. <br>
 🍵 I love herbal infusions and gin & tonics. <br>
 🎥 I never watch movie trailers. <br>
