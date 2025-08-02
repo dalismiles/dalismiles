@@ -1,10 +1,8 @@
 ### Hi there, I'm Dali! 👋
 
-💻 I am a **Frontend Developer** student at [Edgemony](https://edgemony.com/).
+💻 I am a **Frontend Developer**
 
-🤓 I’m currently  learning   ⬇️
-
- [![My Skills](https://skills.thijs.gg/icons?i=html,css,react,js,sass,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,sass,git)](https://skillicons.dev)
 
 ---
 ⚡ **About my repos** :
