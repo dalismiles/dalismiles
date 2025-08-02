@@ -3,7 +3,7 @@
 💻 I am a **Frontend Developer** working with:
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,sass,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,git, github,codepen)](https://skillicons.dev)
 
 ---
 ⚡ **About my repos** :
