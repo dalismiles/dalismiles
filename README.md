@@ -1,6 +1,6 @@
 ### Hi there, I'm Dali! 👋
 
-💻 I am a **Frontend Developer** currently working on something cool! 
+💻 I am a **Frontend Developer** based in Paris 🥐 and currently working on something cool 🖥️🚀! 
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,git,github,codepen)](https://skillicons.dev)
